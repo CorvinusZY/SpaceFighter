@@ -1,0 +1,19 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/_Scripts/bestscore.cs">
+    <Files>
+      <File FileName="Assets/_Scripts/destroy_if_collided.cs" Line="56" Column="6" />
+      <File FileName="Assets/_Scripts/gamecontrol.cs" Line="58" Column="35" />
+      <File FileName="Assets/Laireon Games/Animated Health Bars/Beating Hearts/Documentation.txt" Line="1" Column="29" />
+      <File FileName="Assets/_Scripts/BeatingHealthBar.cs" Line="6" Column="27" />
+      <File FileName="Assets/_Scripts/weaponcontrol.cs" Line="18" Column="3" />
+      <File FileName="Assets/_Scripts/playerControl.cs" Line="53" Column="4" />
+      <File FileName="Assets/_Scripts/bestscore.cs" Line="13" Column="55" />
+      <File FileName="Assets/_Scripts/levelmanager.cs" Line="7" Column="17" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

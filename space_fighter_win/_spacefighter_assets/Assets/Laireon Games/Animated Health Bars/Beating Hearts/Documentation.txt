@@ -1,0 +1,13 @@
+Thanks for buying this pack!
+
+Short and sweet version.
+
+Generally the quickest way to get started is to drag in one of the prefabs from the 'Beating Hearts/Prefabs' folder.
+
+If you want to edit the bars value at runtime simply edit the currentValue field.
+
+Other values
+Min Heart Size: This is how small the heart will shrink to as a cap. It will generally shrink according to its current value (0.5 when 0.5 the value is 0.5, 1.5 etc)
+Max Heart Size: This is the max size of the heart relative to the current value. Think of this as the size the heart beats to when the current value is 0
+Min Beating Time: The slowest speed the heart will beat at, seen when the current value is close to 1 
+Max Beating Time: The fastest speed the heart will beat at, seen when the current value is close to 0
