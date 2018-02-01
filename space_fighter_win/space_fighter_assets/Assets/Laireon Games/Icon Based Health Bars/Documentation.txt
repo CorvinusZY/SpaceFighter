@@ -1,0 +1,10 @@
+Thanks for buying this pack!
+
+Short and sweet version.
+
+Create a new object with your canvases hierarchy and then add the IconProgressBar.cs component.
+Add your images.
+Set the number of icons you want.
+Done!
+
+If you want to edit the bars value at runtime simply edit the currentValue field.
