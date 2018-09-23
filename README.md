@@ -1,3 +1,3 @@
 # projects
 
-##Here are projects done by YU(Corvinus) ZHANG
+##Here is the space fighter survival game completed with Unity3D.
